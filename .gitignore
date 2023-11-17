@@ -1,0 +1,6 @@
+src/backend/.env
+src/flask-api/venv
+src/flask-api/Documents
+src/flask-api/text
+**/processed
+**/text
